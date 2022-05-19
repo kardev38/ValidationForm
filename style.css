@@ -10,7 +10,7 @@ body {
 }
 .box-login {
   flex-shrink: 0;
-  background: #fff;
+  background: rgb(83, 81, 81);
   border-radius: 5px;
 }
 h2 {
@@ -55,7 +55,7 @@ button {
   display: block;
   margin: 30px auto;
   outline: 0;
-  background: rgb(53, 9, 250);
+  background: rgb(198, 198, 209);
   width: 90%;
   border: 0;
   padding: 15px;
@@ -64,7 +64,7 @@ button {
   cursor: pointer;
 }
 button:hover {
-  background: rgb(252,181,49);
+  background: rgb(71, 69, 63);
 }
 button:active {
   background: rgb(250,165,9);
